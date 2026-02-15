@@ -1,1 +1,5 @@
+# Compiled app
 /target
+
+# Local data
+zanahoria_vision_events.json
